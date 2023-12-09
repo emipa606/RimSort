@@ -1,4 +1,4 @@
-pyinstaller==5.7.0
+pyinstaller==5.13.1
 PySide2==5.15.2.1
 toposort==1.9
 xmltodict==0.13.0
